@@ -37,5 +37,3 @@
 
 ### QRC0005 Git 命令
 - [下载 qrc0005-git-commands.pdf](https://github.com/refscn/cards/raw/master/qrc0005-git-commands.pdf "下载 Git 命令参考卡片")
->
-> ![预览](https://github.com/refscn/cards/raw/master/assets/qrc0005-git-commands-cover.png)
